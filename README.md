@@ -40,9 +40,11 @@ The tool simplifies troubleshooting by highlighting errors, exceptions, warnings
 </td>
 <td>
 
-<img src="images/0fHSbGS.jpg" alt="Scarlet Rot Preview" width="100%">
+<img src="Daeva-Log-Analysis-Algorithm
+/0fHSbGS.jpg" alt="Daeva Preview" width="100%">
 
 
 </td>
 </tr>
 </table>
+
