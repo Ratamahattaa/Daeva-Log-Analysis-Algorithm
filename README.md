@@ -1,6 +1,6 @@
 <div align="center">
 
-# daeva
+# Daeva
 </div>
 
 <table>
@@ -37,3 +37,12 @@ The tool simplifies troubleshooting by highlighting errors, exceptions, warnings
 
    ```bash
    ./daeva.sh
+</td>
+<td>
+
+<img src="images/0fHSbGS.jpg" alt="Scarlet Rot Preview" width="100%">
+
+
+</td>
+</tr>
+</table>
